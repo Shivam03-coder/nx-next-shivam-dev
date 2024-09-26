@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@flopmapp/ui-components": ["libs/ui-components/src/index.ts"],
+        "@flopmapp/ui-components/*": ["libs/ui-components/src/*"]
+      }
+    }
+  }
